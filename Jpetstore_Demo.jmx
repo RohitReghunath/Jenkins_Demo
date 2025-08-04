@@ -708,7 +708,7 @@
               </elementProp>
               <elementProp name="measurement" elementType="Argument">
                 <stringProp name="Argument.name">measurement</stringProp>
-                <stringProp name="Argument.value">Store</stringProp>
+                <stringProp name="Argument.value">Jpet</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
               <elementProp name="summaryOnly" elementType="Argument">
@@ -758,7 +758,7 @@
               </elementProp>
               <elementProp name="influxdbToken" elementType="Argument">
                 <stringProp name="Argument.name">influxdbToken</stringProp>
-                <stringProp name="Argument.value">IjF7OuUOWIV2l_5stRvCAUiaNOrc5wP4BLTRtNrgUG3BEwCYXfFgLKJwKDaxCGWNtYIzsHqNNxvZ6ZrG7_FAEg==</stringProp>
+                <stringProp name="Argument.value">PkDYQntW7xnw3YWIL-VS8xBt6BtIbOgStdAu-E1TTcqvAiBdJzfP0JT-xCjTATmkUIEy33Bc5elwUccqmwVB3w==</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
               <elementProp name="influxdbMetricsSender.metrics.avg" elementType="Argument">
